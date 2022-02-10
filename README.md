@@ -20,8 +20,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/kish_deemu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/kish_deemu#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kishendeemud#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kishendeemud#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kishen-deemud#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kishen-deemud#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/kish_deemu#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/kish_deemu#gh-dark-mode-only)
