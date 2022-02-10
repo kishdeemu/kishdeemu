@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kish_deemu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kish_deemu)
 
 
-## I'm a Undergraduate, Developer, and Tech Enthusiast!!
+## I'm an Undergraduate, Developer, and Tech Enthusiast!!
 
 - 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
 - 🎓 Microsoft Learn Student Ambassador - Beta
