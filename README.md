@@ -1,7 +1,6 @@
 ### Hi, I'm Kishen Deemud 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2adYx0mQqJVUUkkpG-yM8A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/kish_deemu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kish_deemu)
 
 
