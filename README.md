@@ -9,7 +9,7 @@
 - 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
 - 🎓 Microsoft Learn Student Ambassador - Beta
 - 👯 Willing collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Crazy fan of football⚽️, cricket🏏 and tennis🎾
 
 ### Connect with me:
