@@ -6,7 +6,7 @@
 
 ## I'm an Undergraduate, Developer, and Tech Enthusiast!!
 
-- 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering (UG) - SLIIT
+- 🎓 BSc. (Hons) in Information Technology specialized in Software Engineering - SLIIT
 - 🎓 Microsoft Learn Student Ambassador - Beta
 - 👯 Willing collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
